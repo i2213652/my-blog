@@ -260,7 +260,10 @@ window.addEventListener("DOMContentLoaded", (event) => {
 							/>
 						</svg>
 					</a>
-					<a class="mx-2" href="#!"
+					<a
+						class="mx-2"
+						href="https://github.com/i2213652/my-blog"
+						target="blank"
 						><svg
 							viewBox="0 0 24 24"
 							width="24"
